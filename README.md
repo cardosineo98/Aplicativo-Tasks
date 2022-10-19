@@ -2,7 +2,7 @@
 
 Aplicativo Tasks, Aplicativo Que Faz Gerenciamentos de suas tarefas no cortidiano.
 
-Aplicativo faz login e cadastro de Conta VIA API.
+Aplicativo faz login e cadastro de Conta VIA API via Retrofit.
 
 Cadastro, listagem, remoção e update de tarefas também via API.
 
